@@ -17,9 +17,3 @@ A Discord bot for roleplaying that creates character dialogue images with sprite
 - `/say` - Make a character speak (creates dialogue image)
 - `/textboxlist` - List all registered characters
 
-## Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/sprite-bot.git
-   cd sprite-bot
